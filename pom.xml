@@ -255,5 +255,11 @@
       </snapshots>
     </pluginRepository>
   </pluginRepositories>
+  <distributionManagement>
+    <repository>
+        <id>github</id>
+        <url>https://maven.pkg.github.com/sachinjangramp/SpringPetClinic</url>
+    </repository>
+  </distributionManagement>
 
 </project>
